@@ -1,0 +1,19 @@
+{
+  "name": "radiohirado",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nixosoft/RadioHirado.git"
+  },
+  "author": "Hirad Nikoo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nixosoft/RadioHirado/issues"
+  },
+  "homepage": "https://github.com/Nixosoft/RadioHirado#readme"
+}
